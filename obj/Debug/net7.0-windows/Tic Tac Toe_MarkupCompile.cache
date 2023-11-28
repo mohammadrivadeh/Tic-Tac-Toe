@@ -1,5 +1,5 @@
 ﻿Tic Tac Toe
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 C:\Users\Administrator\Desktop\Projects\Tic Tac Toe\App.xaml
 11407045341
 
-6644579846
+4803630248
 1981723223080
 MainWindow.xaml;
 
-True
+False
 
